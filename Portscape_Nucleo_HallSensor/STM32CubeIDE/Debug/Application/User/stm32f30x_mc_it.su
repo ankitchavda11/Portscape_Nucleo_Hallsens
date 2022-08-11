@@ -1,0 +1,8 @@
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:80:6:ADC1_IRQHandler	8	static
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:105:6:TIM1_UP_TIM16_IRQHandler	0	static
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:119:6:TIM1_BRK_TIM15_IRQHandler	8	static
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:147:6:TIM2_IRQHandler	8	static
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:191:6:USART2_IRQHandler	8	static
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:244:6:HardFault_Handler	16	static
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:292:6:SysTick_Handler	8	static
+C:/Users/UL/Desktop/ST SPIN Portscape/Portscape_Nucleo_HallSensor/Src/stm32f30x_mc_it.c:320:6:EXTI15_10_IRQHandler	0	static
